@@ -1,0 +1,4 @@
+Next js features - 
+1> Full stack app - frontend & backend in same app.
+2> Routes are configured via file system
+3> SSR - By default next js (pre) renders all pages on server side.

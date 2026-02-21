@@ -2,3 +2,11 @@ Next js features -
 1> Full stack app - frontend & backend in same app.
 2> Routes are configured via file system
 3> SSR - By default next js (pre) renders all pages on server side.
+
+Key Points - 
+- App routes vs page router
+- "metadata" is the reserved kayword & page.js, layout.js, error.js, not-found.js are reserver file names in next js
+- params added by next js
+- Params is promise after next 15 so use await
+- 
+
